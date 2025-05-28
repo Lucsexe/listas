@@ -13,3 +13,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Hits Mexicanos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/951029551eab1d4e6331addcb41c5ba0.webp" group-title="General",Hits Mexicanos
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="General",DePelicula
+https://live2.sdfgnksbounce.com:9091/370_/tracks-v1a1/mono.m3u8?amp;remote=148.222.203.138&token=9af0b1b7665d2ee892bab6d548be6545f646ae34-f08f096f0cd9ce1580a6eb70f05c3d43-1748418861-1748400861
