@@ -12,7 +12,7 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Hits Mexicanos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/951029551eab1d4e6331addcb41c5ba0.webp" group-title="General",Hits Mexicanos
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/DIFJPIA/3F13C2D5DEBB/m.m3u8
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
 
 #EXTINF:-1 tvg-id="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="General",DePelicula
 http://newlife3.wanicelife.com:8880/D12m3851/37998742/51413
