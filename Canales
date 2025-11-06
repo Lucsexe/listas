@@ -27,3 +27,6 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/chunklist_w910798919.m3u8
 
 #EXTINF:-1 tvg-id="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tierramia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="General",Tierramia
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
