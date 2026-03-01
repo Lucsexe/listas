@@ -1,15 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La Nacion" tvg-logo="https://play-lh.googleusercontent.com/ifqvCKTdx6-o0ocKkUwd4XbXLx_KbmccG2ubMHJCwjdsor0OzZITSWU9qYdfsv1Aq16o" group-title="General",La Nacion
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
 
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="General",Todo Noticias
 http-referrer=https://tn.com.ar/envivo/24hs
 
 #EXTINF:-1 tvg-id="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="General",Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157565
 
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="General",ElTrece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157567
 
 #EXTINF:-1 tvg-id="Hits Mexicanos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/951029551eab1d4e6331addcb41c5ba0.webp" group-title="General",Hits Mexicanos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
@@ -17,8 +16,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="General",DePelicula
 http://newlife3.wanicelife.com:8880/D12m3851/37998742/51413
 
-#EXTINF:-1 tvg-id="TeLeFe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General",TeLeFe
-http://newlife3.wanicelife.com:8880/D12m3851/37998742/49676
+
 
 #EXTINF:-1 tvg-id="Esquel" tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2025/05/logo-canal-2.png" group-title="General",Canal 4
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/chunklist_w910798919.m3u8
@@ -51,84 +49,58 @@ http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157561
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157562
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TV Publica (L)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="ARGENTINA",ARG - TV Publica (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157586
-#EXTINF:-1 tvg-id="" tvg-name="ARG - TV Publica (Z)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="ARGENTINA",ARG - TV Publica (Z)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157587
-#EXTINF:-1 tvg-id="" tvg-name="ARG - TV Pública (M)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="ARGENTINA",ARG - TV Pública (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157578
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TyC Sports (L)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="ARGENTINA",ARG - TyC Sports (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157583
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TyC Sports (M)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="ARGENTINA",ARG - TyC Sports (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157580
-#EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-name="ARG - TyC Sports (TV)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="ARGENTINA",ARG - TyC Sports (TV)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157614
-#EXTINF:-1 tvg-id="" tvg-name="ARG - A24 (i)(720)" tvg-logo="https://i.postimg.cc/9fMZGbRp/Proyecto-X-Argentina.png" group-title="ARGENTINA",ARG - A24 (i)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157616
+
+
 #EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - A24 (Z)(720)" tvg-logo="https://i.postimg.cc/9fMZGbRp/Proyecto-X-Argentina.png" group-title="ARGENTINA",ARG - A24 (Z)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157613
 #EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - America TV (L)(720)" tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="ARGENTINA",ARG - America TV (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157612
-#EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - America TV (L)(720)" tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="ARGENTINA",ARG - America TV (L)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157624
-#EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - America TV (M)(720)" tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="ARGENTINA",ARG - America TV (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157623
-#EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - America TV (TV)(720)" tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="ARGENTINA",ARG - America TV (TV)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157622
+
 #EXTINF:-1 tvg-id="Canal.Televisión.Pública.(Argentina).ar" tvg-name="ARG - Argentinisima (i)(720)" tvg-logo="https://i.postimg.cc/xdCMK5Js/Proyecto-X-Argentina-(2).png" group-title="ARGENTINA",ARG - Argentinisima (i)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157608
 #EXTINF:-1 tvg-id="" tvg-name="ARG - C5N (L)(720)" tvg-logo="https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png" group-title="ARGENTINA",ARG - C5N (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157607
-#EXTINF:-1 tvg-id="" tvg-name="ARG - C5N (M)(720)" tvg-logo="https://i.postimg.cc/nLzBv2jT/Proyecto-X-Argentina-(3).png" group-title="ARGENTINA",ARG - C5N (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157566
 #EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).sv" tvg-name="ARG - Canal 13 (M)(720)" tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="ARGENTINA",ARG - Canal 13 (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157567
 #EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="ARG - Canal 26 (L)(720)" tvg-logo="https://i.postimg.cc/zfcWphT5/Proyecto-X-Argentina-(5).png" group-title="ARGENTINA",ARG - Canal 26 (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157594
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Canal 26 (M)(720)" tvg-logo="https://i.postimg.cc/zfcWphT5/Proyecto-X-Argentina-(5).png" group-title="ARGENTINA",ARG - Canal 26 (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157568
+
 #EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="ARG - Canal 9 (M)(720)" tvg-logo="https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png" group-title="ARGENTINA",ARG - Canal 9 (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157569
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Canal de la Ciudad (M)(720)" tvg-logo="https://i.postimg.cc/k5p8wSW-C/Proyecto-X-Argentina-(7).png" group-title="ARGENTINA",ARG - Canal de la Ciudad (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157570
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Cinear (Z)(720)" tvg-logo="https://i.postimg.cc/PJGDnk63/Proyecto-X-Argentina-(8).png" group-title="ARGENTINA",ARG - Cinear (Z)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157601
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Ciudad Magazine (M)(720)" tvg-logo="https://i.postimg.cc/9039HjxS/Proyecto-X-Argentina-(9).png" group-title="ARGENTINA",ARG - Ciudad Magazine (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157565
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Cronica (i)(720)" tvg-logo="https://i.postimg.cc/L5z1H07D/Proyecto-X-Argentina-(10).png" group-title="ARGENTINA",ARG - Cronica (i)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157598
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Crónica TV (M)(720)" tvg-logo="https://i.postimg.cc/L5z1H07D/Proyecto-X-Argentina-(10).png" group-title="ARGENTINA",ARG - Crónica TV (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157572
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Deportv (L)(720)" tvg-logo="https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png" group-title="ARGENTINA",ARG - Deportv (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157620
-#EXTINF:-1 tvg-id="" tvg-name="ARG - DeporTV (M)(720)" tvg-logo="https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png" group-title="ARGENTINA",ARG - DeporTV (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157573
-#EXTINF:-1 tvg-id="" tvg-name="ARG - El Nueve (Z)(720)" tvg-logo="https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png" group-title="ARGENTINA",ARG - El Nueve (Z)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157595
-#EXTINF:-1 tvg-id="" tvg-name="ARG - El Nueve (L)(720)" tvg-logo="https://i.postimg.cc/3R0GqwZT/Proyecto-X-Argentina-(6).png" group-title="ARGENTINA",ARG - El Nueve (L)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157621
+
+
 #EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).sv" tvg-name="ARG - El Trece (i)(720)" tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="ARGENTINA",ARG - El Trece (i)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157615
 #EXTINF:-1 tvg-id="" tvg-name="ARG - El trece (L)(720)" tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="ARGENTINA",ARG - El trece (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157591
 #EXTINF:-1 tvg-id="" tvg-name="ARG - LN + (L)(720)" tvg-logo="https://i.postimg.cc/Fs4SPNdC/Proyecto-X-Argentina-(17).png" group-title="ARGENTINA",ARG - LN + (L)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157592
-#EXTINF:-1 tvg-id="" tvg-name="ARG - LN+ (L)(720)" tvg-logo="https://i.postimg.cc/Fs4SPNdC/Proyecto-X-Argentina-(17).png" group-title="ARGENTINA",ARG - LN+ (L)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157593
-#EXTINF:-1 tvg-id="" tvg-name="ARG - LN+ (M)(720)" tvg-logo="https://i.postimg.cc/Fs4SPNdC/Proyecto-X-Argentina-(17).png" group-title="ARGENTINA",ARG - LN+ (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157574
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Metro (i)(720)" tvg-logo="https://i.postimg.cc/m2s9dB1f/Proyecto-X-Argentina-(18).png" group-title="ARGENTINA",ARG - Metro (i)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157606
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Multivision" tvg-logo="https://i.postimg.cc/T2mmqp1v/Proyecto-X-Argentina-(19).png" group-title="ARGENTINA",ARG - Multivision
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157618
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Paka Paka (M)(720)" tvg-logo="https://i.postimg.cc/m2s9dB1R/Proyecto-X-Argentina-(20).png" group-title="ARGENTINA",ARG - Paka Paka (M)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157575
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Telefe (TV)(720)" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="ARGENTINA",ARG - Telefe (TV)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157590
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Telefe (L)(720)" tvg-logo="https://i.postimg.cc/5NVzPbQ6/Proyecto-X-Argentina-(21).png" group-title="ARGENTINA",ARG - Telefe (L)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157589
-#EXTINF:-1 tvg-id="Canal.Telefé.(Argentina).sv" tvg-name="ARG - Telefe Noticias (i)(720)" tvg-logo="https://i.postimg.cc/gkHZQQ30/Proyecto-X-Argentina-(22).png" group-title="ARGENTINA",ARG - Telefe Noticias (i)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157617
-#EXTINF:-1 tvg-id="" tvg-name="ARG - Telesur (i)(720)" tvg-logo="https://i.postimg.cc/wTQmZZDy/Proyecto-X-Argentina-(23).png" group-title="ARGENTINA",ARG - Telesur (i)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157604
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TN (M)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157577
 #EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar" tvg-name="ARG - TN Noticias (i)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
