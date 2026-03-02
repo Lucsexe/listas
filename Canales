@@ -103,6 +103,13 @@ http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157590
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157577
 #EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar" tvg-name="ARG - TN Noticias (i)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157610
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TN (M)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN (M)(720)
+http://tv.diablotv.net:8080/erickacarnero/Vmu2rtvf1n/157577
+#EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar" tvg-name="ARG - TN Noticias (i)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
+http://tv.diablotv.net:8080/erickacarnero/Vmu2rtvf1n/157610
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TV5 Monde (M)(720)" tvg-logo="https://i.postimg.cc/XYNCbLgQ/Proyecto-X-Argentina-(27).png" group-title="ARGENTINA",ARG - TV5 Monde (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157579
 #EXTINF:-1 tvg-id="" tvg-name="ARG - Volver (M)(720)" tvg-logo="https://i.postimg.cc/TPS8GTZc/Proyecto-X-Argentina-(29).png" group-title="ARGENTINA",ARG - Volver (M)(720)
