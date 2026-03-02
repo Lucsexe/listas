@@ -77,22 +77,34 @@ http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157590
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TN (M)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157577
+
 #EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar" tvg-name="ARG - TN Noticias (i)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157610
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TN (M)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN (M)(720)
 http://tv.diablotv.net:8080/erickacarnero/Vmu2rtvf1n/157577
+
 #EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar" tvg-name="ARG - TN Noticias (i)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
 http://tv.diablotv.net:8080/erickacarnero/Vmu2rtvf1n/157610
 
 #EXTINF:-1 group-title="Bics Extra", TN AR
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News;Undefined",TN (1080p)
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TN Todo Noticias (1080p)
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8?checkedby:iptvcat.com
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TV5 Monde (M)(720)" tvg-logo="https://i.postimg.cc/XYNCbLgQ/Proyecto-X-Argentina-(27).png" group-title="ARGENTINA",ARG - TV5 Monde (M)(720)
