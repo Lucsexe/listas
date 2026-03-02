@@ -109,6 +109,9 @@ http://tv.diablotv.net:8080/erickacarnero/Vmu2rtvf1n/157577
 #EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar" tvg-name="ARG - TN Noticias (i)(720)" tvg-logo="https://i.postimg.cc/xT3zhhLX/Proyecto-X-Argentina-(24).png" group-title="ARGENTINA",ARG - TN Noticias (i)(720)
 http://tv.diablotv.net:8080/erickacarnero/Vmu2rtvf1n/157610
 
+#EXTINF:-1 group-title="Bics Extra", TN AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG - TV5 Monde (M)(720)" tvg-logo="https://i.postimg.cc/XYNCbLgQ/Proyecto-X-Argentina-(27).png" group-title="ARGENTINA",ARG - TV5 Monde (M)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157579
