@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Ciudad Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="General",Ciudad Magazine
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157565
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",A24 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magazine2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="General",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
@@ -10,7 +16,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="General",ElTrece
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157567
+
 
 
 
@@ -31,17 +37,14 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="Tierramia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQToVNaBNGlzd899kA3vBMbLJAis5Y9sjAoBg&s" group-title="General",Tierramia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (1080p)
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - A24 (Z)(720)" tvg-logo="https://i.postimg.cc/9fMZGbRp/Proyecto-X-Argentina.png" group-title="ARGENTINA",ARG - A24 (Z)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157613
+
 #EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).sv" tvg-name="ARG - America TV (L)(720)" tvg-logo="https://i.postimg.cc/d01r86km/Proyecto-X-Argentina-(1).png" group-title="ARGENTINA",ARG - America TV (L)(720)
-http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157612
+
 
 #EXTINF:-1 tvg-id="Canal.Televisión.Pública.(Argentina).ar" tvg-name="ARG - Argentinisima (i)(720)" tvg-logo="https://i.postimg.cc/xdCMK5Js/Proyecto-X-Argentina-(2).png" group-title="ARGENTINA",ARG - Argentinisima (i)(720)
 http://tv.diablotv.net:8080/cabreraguzman74/ce0352c14c4d/157608
