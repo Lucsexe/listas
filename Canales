@@ -1,5 +1,28 @@
 #EXTM3U
 
+
+#EXTINF:-1 type="stream" tvg-
+logo="https://buscador.cablevisionfibertel.com.ar/logos/35.png" group-
+title="Nacional" , Telefe
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:-1 type="stream" tvg-
+logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" , El Trece
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:-1 type="stream" tvg-
+logo="https://buscador.cablevisionfibertel.com.ar/logos/175.png" , América
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:-1 type="stream" tvg-
+logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" , El Nueve
+http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:-1 type="stream" tvg-
+logo="https://buscador.cablevisionfibertel.com.ar/logos/292.png" , Tv Pública
+http://ar.watcha.live/ch4/hi.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="General",ElTrece
 #EXTVLCOPT:http-referrer=https://teleonline.org/canal/el-trece/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
