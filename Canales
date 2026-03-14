@@ -11,6 +11,9 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nacion +
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="AR",LN+ - 25.3 TV - CABA TV TDA - CD Cd Aut Bs As
+https://www.youtube.com/embed/lcGCTkaZIsA?autoplay=1
+
 #EXTINF:-1 tvg-id="ElTrece" tvg-logo="https://i.postimg.cc/zBHhQfF4/Proyecto-X-Argentina-(4).png" group-title="General",ElTrece
 #EXTVLCOPT:http-referrer=https://teleonline.org/canal/el-trece/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
