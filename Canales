@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/7934
+
 #EXTINF:-1 tvg-id="Ciudad Magazine2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="General",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
