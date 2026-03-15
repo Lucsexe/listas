@@ -1,26 +1,33 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Ingalls (e)" tvg-logo="" group-title="24/7 RETRO",24/7 La familia Ingalls (e)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/96699
 
 
 #EXTINF:-1  tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/800/542/0/0/917545880726.png" group-title="Argentina", Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG-Ciudad Magazine (M)" tvg-logo="http://23.153.216.121:25461/images/c0bb0a28437a5da4b2cdf6270c9c2c3e.png" group-title="ARGENTINA",ARG-Ciudad Magazine (M)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/7934
 
 #EXTINF:-1 tvg-id="Ciudad Magazine2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="General",Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magazine3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="General",Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="",Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
