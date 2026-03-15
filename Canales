@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Ingalls (e)" tvg-logo="" group-title="24/7 RETRO",24/7 La familia Ingalls (e)
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/96699
+
 
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
