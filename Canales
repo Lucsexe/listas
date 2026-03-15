@@ -4,6 +4,9 @@
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/96699
 
 
+#EXTINF:-1  tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/800/542/0/0/917545880726.png" group-title="Argentina", Ciudad Magazine
+https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
