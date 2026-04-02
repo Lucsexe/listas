@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, LN+ (La Nación +)
+#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
+https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MzM2NjE3Iiwic2lwIjoiMTQ4LjIyMi4xMzAuMTQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvTGFfTmFjaW9uL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3ZDE0M2IwMTY3YjU4ZjUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.Ox_f1aycdoAADosYgiMMKpgUO2HUa-eSaH7TXsZ4pHYcvXiA4hQrL41ACS2whyOai1jtqjD5IXFuhOKPGiIeSA==/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Ingalls (e)" tvg-logo="" group-title="24/7 RETRO",24/7 La familia Ingalls (e)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/96699
