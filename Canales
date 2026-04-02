@@ -1,12 +1,14 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-id="LNPlus.ar" tvg-name="LN+ (La Nación +)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_La_Naci%C3%B3n%2B.svg/512px-Logo_La_Naci%C3%B3n%2B.svg.png" group-title="Noticias", LN+ (La Nación +)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://web.app.flow.com.ar/|Origin=https://web.app.flow.com.ar/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_La_Naci%C3%B3n%2B.svg/512px-Logo_La_Naci%C3%B3n%2B.svg.png" group-title="Noticias", LN+ (La Nación +)
+#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MzM2NjE3Iiwic2lwIjoiMTQ4LjIyMi4xMzAuMTQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvTGFfTmFjaW9uL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjM3ZDE0M2IwMTY3YjU4ZjUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.Ox_f1aycdoAADosYgiMMKpgUO2HUa-eSaH7TXsZ4pHYcvXiA4hQrL41ACS2whyOai1jtqjD5IXFuhOKPGiIeSA==/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Ingalls (e)" tvg-logo="" group-title="24/7 RETRO",24/7 La familia Ingalls (e)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
