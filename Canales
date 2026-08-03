@@ -1,6 +1,8 @@
 #EXTM3U
 -------------------
 fx http://138.121.15.230:9002/FX/index.m3u8
+star http://138.121.15.230:9002/STAR-CHANNEL/tracks-v1a1/mono.m3u8
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - Bonanza (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/9lA8E6ShDiTECyjmnnBNQdQpifK.jpg" group-title="24/7 RETRO",24/7 Retro - Bonanza (e)(SD)
 http://tv.proyectox.vip:8080/tapiaclarita1yu/9WRg7QbnHE/174839
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Retro - La familia Ingalls (e)(SD)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/4ly1PKbNyvMMTPC0wWIeqffLkhE.jpg" group-title="24/7 RETRO",24/7 Retro - La familia Ingalls (e)(SD)
